@@ -1,5 +1,7 @@
 [package]
+description = "Tool to generate X, Discord and Github icons from an SVG icon."
 name = "svgi"
+license = "MIT"
 version = "0.1.0"
 edition = "2024"
 
