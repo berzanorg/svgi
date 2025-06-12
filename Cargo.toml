@@ -1,0 +1,8 @@
+[package]
+name = "svgi"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+oxipng = "9.1.5"
+resvg = "0.45.1"
